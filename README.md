@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sagar-Dumbre
--     I am an Aspirant in Data Analytics & Data Science
+- I am an Aspiring Data Analyst
 - 👀 I’m interested in Data Analytics & Data Science
-- 🌱 I’m currently learning Data Analytics & Data Science
 - 📫 How to reach me sagardumbre2000@gmail.com
 
 <!---
